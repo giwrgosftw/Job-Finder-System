@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JobFindSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JobFindSystem_jar</output-path>
+    <root id="archive" name="JobFindSystem.jar">
+      <element id="module-output" name="JobFindSystem" />
+    </root>
+  </artifact>
+</component>
